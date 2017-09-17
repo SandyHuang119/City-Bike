@@ -1,3 +1,2 @@
 # City-Bike
-created by Yingqi
-created by Sandy
+created by Yingqi(Sandy)
